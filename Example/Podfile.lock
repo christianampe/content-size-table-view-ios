@@ -1,0 +1,16 @@
+PODS:
+  - ACContentSizeTableView (0.1.0)
+
+DEPENDENCIES:
+  - ACContentSizeTableView (from `../`)
+
+EXTERNAL SOURCES:
+  ACContentSizeTableView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ACContentSizeTableView: 4901f28ce5a144c34d2f7e5cdf4f289cd9495003
+
+PODFILE CHECKSUM: e2182c886b7152a4d0297238e462c5e67e730304
+
+COCOAPODS: 1.8.1
