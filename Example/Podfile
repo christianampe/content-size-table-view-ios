@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ACContentSizeTableView_Example' do
+  pod 'ACContentSizeTableView', :path => '../'
+
+  target 'ACContentSizeTableView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
