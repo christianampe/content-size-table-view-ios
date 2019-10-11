@@ -1,5 +1,5 @@
 PODS:
-  - ACContentSizeTableView (0.1.0)
+  - ACContentSizeTableView (0.0.1)
 
 DEPENDENCIES:
   - ACContentSizeTableView (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ACContentSizeTableView: 4901f28ce5a144c34d2f7e5cdf4f289cd9495003
+  ACContentSizeTableView: f11baebd952191436d45db0453dc046a8ec10ad0
 
 PODFILE CHECKSUM: e2182c886b7152a4d0297238e462c5e67e730304
 
